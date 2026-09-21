@@ -2,6 +2,8 @@
 
 Bài tập môn Lập trình Web, học kỳ 1 năm học 115, Đại học Nguyên Trí (元智大學).
 
+🔗 **Xem trực tiếp:** https://vvanhuy.github.io/web-programming-11501/
+
 ## Cấu trúc
 
 ```
@@ -11,14 +13,7 @@ Bài tập môn Lập trình Web, học kỳ 1 năm học 115, Đại học Nguy
   script.js
 ```
 
-## Xem trực tiếp
-
-Sau khi bật GitHub Pages (Settings → Pages → Source: `main` / root),
-mỗi bài sẽ xem được tại:
-
-```
-https://vvanhuy.github.io/web-programming-11501/01-<chu-de>/
-```
+Mỗi bài một thư mục, xem được tại `https://vvanhuy.github.io/web-programming-11501/01-<chu-de>/`
 
 ## Công nghệ
 
